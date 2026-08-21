@@ -1,0 +1,26 @@
+{
+  "id": "honduras-comayagua",
+  "name": "Comayagua",
+  "country": "Honduras",
+  "countryCode": "HN",
+  "region": "Comayagua",
+  "variety": "Parainema",
+  "altitude": "1600 m.s.n.m.",
+  "process": "Lavado",
+  "score": 84,
+  "image": "",
+  "attributes": ["Cítricos dulces", "Flor de azahar", "Panela", "Cáscara de naranja"],
+  "sensory": {
+    "Fragancia/Aroma": 7.78,
+    "Sabor": 8.10,
+    "Retrogusto": 8.17,
+    "Acidez": 7.89,
+    "Cuerpo": 8.10,
+    "Balance": 7.85,
+    "General": 7.67
+  },
+  "prices": [
+    {"from": "Desde 3 kg", "price": "$40.300", "unit": "/ kg"},
+    {"from": "Desde 5 kg", "price": "$39.300", "unit": "/ kg"}
+  ]
+}

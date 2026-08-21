@@ -1,0 +1,26 @@
+{
+  "id": "colombia-valle",
+  "name": "Valle del Cauca",
+  "country": "Colombia",
+  "countryCode": "CO",
+  "region": "Valle del Cauca",
+  "variety": "Castillo Supremo",
+  "altitude": "1400–1700 m.s.n.m.",
+  "process": "Lavado",
+  "score": 83,
+  "image": "",
+  "attributes": ["Caramelo", "Dulce", "Frutal Suave", "Cacao", "Acidez media", "Cuerpo medio"],
+  "sensory": {
+    "Fragancia/Aroma": 8.00,
+    "Sabor": 7.25,
+    "Retrogusto": 7.25,
+    "Acidez": 7.50,
+    "Cuerpo": 7.75,
+    "Balance": 7.50,
+    "General": 7.25
+  },
+  "prices": [
+    {"from": "Desde 3 kg", "price": "$36.500", "unit": "/ kg"},
+    {"from": "Desde 5 kg", "price": "$35.100", "unit": "/ kg"}
+  ]
+}

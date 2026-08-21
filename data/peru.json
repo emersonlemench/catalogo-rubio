@@ -1,0 +1,26 @@
+{
+  "id": "peru-cajamarca",
+  "name": "Cajamarca",
+  "country": "Perú",
+  "countryCode": "PE",
+  "region": "Cajamarca",
+  "variety": "Nacional & Paches",
+  "altitude": "1700 m.s.n.m.",
+  "process": "Lavado",
+  "score": 82.5,
+  "image": "",
+  "attributes": ["Nuez", "Avellana", "Chocolate oscuro", "Dulce de leche", "Acidez baja", "Buen cuerpo"],
+  "sensory": {
+    "Fragancia/Aroma": 7.46,
+    "Sabor": 7.43,
+    "Retrogusto": 7.33,
+    "Acidez": 7.36,
+    "Cuerpo": 7.42,
+    "Balance": 7.32,
+    "General": 7.27
+  },
+  "prices": [
+    {"from": "Desde 3 kg", "price": "$40.900", "unit": "/ kg"},
+    {"from": "Desde 5 kg", "price": "$38.100", "unit": "/ kg"}
+  ]
+}

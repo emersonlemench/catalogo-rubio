@@ -1,0 +1,29 @@
+{
+  "id": "brasil-cerrado",
+  "name": "Cerrado Mineiro",
+  "country": "Brasil",
+  "countryCode": "BR",
+  "region": "Cerrado Mineiro",
+  "variety": "Bourbon",
+  "altitude": "1100 m.s.n.m.",
+  "process": "Natural",
+  "score": 84.75,
+  "image": "",
+  "attributes": ["Caramelo", "Avellana", "Manzana", "Cuerpo medioalto"],
+  "sensory": {
+    "Fragancia/Aroma": 7.75,
+    "Sabor": 7.75,
+    "Retrogusto": 7.75,
+    "Acidez": 7.75,
+    "Cuerpo": 8.00,
+    "Balance": 8.00,
+    "General": 7.75,
+    "Uniformidad": 10.00,
+    "Taza limpia": 10.00,
+    "Dulzor": 10.00
+  },
+  "prices": [
+    {"from": "Desde 3 kg", "price": "$35.500", "unit": "/ kg"},
+    {"from": "Desde 5 kg", "price": "$34.000", "unit": "/ kg"}
+  ]
+}

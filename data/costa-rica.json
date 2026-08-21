@@ -1,0 +1,26 @@
+{
+  "id": "costa-rica-caturra",
+  "name": "Caturra - Catuaí",
+  "country": "Costa Rica",
+  "countryCode": "CR",
+  "region": "",
+  "variety": "Caturra - Catuaí",
+  "altitude": "1150–1350 m.s.n.m.",
+  "process": "Honey",
+  "score": 85.5,
+  "image": "",
+  "attributes": ["Dulce", "Cereal", "Caramelo", "Ciruela", "Malta", "Acidez y cuerpo medio"],
+  "sensory": {
+    "Fragancia/Aroma": 8.25,
+    "Sabor": 7.75,
+    "Retrogusto": 7.50,
+    "Acidez": 7.75,
+    "Cuerpo": 7.50,
+    "Balance": 7.50,
+    "General": 7.75
+  },
+  "prices": [
+    {"from": "Desde 3 kg", "price": "$43.000", "unit": "/ kg"},
+    {"from": "Desde 5 kg", "price": "$42.200", "unit": "/ kg"}
+  ]
+}

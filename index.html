@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Rubio Coffee Roasters — Café de especialidad en pequeños lotes.">
+  <title>Catálogo Café Rubio Coffee Roasters</title>
+  <link rel="icon" type="image/x-icon" href="images/fav.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="site-header" id="top">
+<a class="logo" href="#inicio" aria-label="Rubio Coffee Roasters">
+  <img src="images/logo.png" alt="Rubio Coffee Roasters" class="logo-img">
+</a>    <button class="menu-toggle" aria-label="Abrir menú" aria-expanded="false">☰</button>
+    <nav class="nav">
+      
+      <a href="#about">¿Quiénes Somos?</a>
+
+      <a href="#cafes">Café Mayoristas</a>
+      <a href="#tienda">Minorista</a>
+      
+      <a href="#catire">Catire</a>
+      <a href="#contacto">Contacto</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero" id="inicio">
+      <div class="hero-overlay"></div>
+      <div class="hero-content">
+        <p class="eyebrow">RUBIO COFFEE ROASTERS</p>
+        <h1>Pequeños lotes,<br><em>grandes sabores.</em></h1>
+        <p class="hero-copy">Café de especialidad tostado en pequeños lotes adaptados al perfil que necesitas.</p>
+        <a class="button" href="#cafes">Explorar cafés</a>
+      </div>
+      <a class="scroll-cue" href="#cafes">SCROLL ↓</a>
+    </section>
+
+<section class="about section" id="about">
+      <div class="section-number">ABOUT</div>
+      <div class="about-grid">
+        <div>
+          <p class="eyebrow">RUBIO</p>
+          <h2 id="about-title"></h2>
+        </div>
+        <div>
+          <p id="about-text"></p>
+          <div class="about-facts" id="about-facts"></div>
+        </div>
+      </div>
+    </section>
+
+    
+
+    <section class="coffee-intro" id="cafes">
+      <div>
+        <p class="eyebrow">SELECCIÓN RUBIO</p>
+        <h2>Nuestros cafés</h2>
+      </div>
+      <p>Microlotes seleccionados y tostados para expresar lo mejor de cada origen.</p>
+    </section>
+
+    <div id="coffees-container"></div>
+
+   
+
+    <section class="shop section" id="tienda">
+      <div class="shop-heading">
+        <p class="eyebrow">PARA LLEVAR</p>
+        <h2>Café para tu hogar u oficina</h2>
+        <p>Elegí tu café y el tamaño que mejor se adapte a tu ritual.</p>
+      </div>
+      <div class="product-grid" id="products-container"></div>
+    </section>
+
+    <!-- <section class="contact section" id="contacto">
+      <div>
+        <p class="eyebrow">05 — CONTACTO</p>
+        <h2>Habla con nosotros.</h2>
+      </div> -->
+      <!-- <div class="contact-grid">
+        <div id="contact-info"></div>
+        <form id="contact-form">
+          <label>Nombre<input type="text" name="name" required></label>
+          <label>Email<input type="email" name="email" required></label>
+          <label>Mensaje<textarea name="message" rows="5" required></textarea></label>
+          <button class="button" type="submit">Enviar</button>
+          <p class="form-note" id="form-note"></p>
+        </form>
+      </div> -->
+    <!-- </section> -->
+
+     <section class="catire section" id="catire">
+      <div class="catire-art">
+        <img id="catire-image" src="" alt="Catire, mascota de Rubio Coffee Roasters">
+      </div>
+      <div class="catire-copy">
+        <p class="eyebrow">03 — PERSONAJE RUBIO</p>
+        <h2 id="catire-title"></h2>
+        <p id="catire-text"></p>
+      </div>
+    </section>
+
+    <section class="contact section" id="contacto">
+  <div>
+    <p class="eyebrow">05 — CONTACTO</p>
+    <h2>Habla con nosotros.</h2>
+  </div>
+  
+  <div id="contact-info"></div>
+</section>
+
+
+  </main>
+
+  <footer>
+    <span>RUBIO COFFEE ROASTERS</span>
+    <a href="#top">VOLVER ARRIBA ↑</a>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

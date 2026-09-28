@@ -9,7 +9,7 @@
     {
       "name": "Gesha Huila Lavado",
       "size": "125 g",
-      "price": "$15077",
+      "price": "$18600",
       "image": "images/gesha-125.png"
     },
     {
@@ -21,7 +21,7 @@
     {
       "name": "Bourbon Natural Brasil",
       "size": "125 g",
-      "price": "$11692",
+      "price": "$14500",
       "image": "images/brasil-125.png"
     },
     {
@@ -33,7 +33,7 @@
     {
       "name": "Costa Rica Caturra Honey",
       "size": "125 g",
-      "price": "$12821",
+      "price": "$14500",
       "image": "images/costa-125.png"
     },
     {
@@ -45,7 +45,7 @@
     {
       "name": "Honduras Paraneima Lavado",
       "size": "125 g",
-      "price": "$11692",
+      "price": "$14500",
       "image": "images/honduras-125.png"
     },
     {
@@ -57,7 +57,7 @@
     {
       "name": "Perú Paches Regional Lavado",
       "size": "125 g",
-      "price": "$11692",
+      "price": "$14500",
       "image": "images/peru-125.png"
     },
     {
@@ -69,7 +69,7 @@
     {
       "name": "Colombia Castillo Supremo Lavado",
       "size": "125 g",
-      "price": "$11692",
+      "price": "$14500",
       "image": "images/sumpremo-125.png"
     }
   ]

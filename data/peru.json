@@ -20,7 +20,7 @@
     "General": 7.27
   },
   "prices": [
-    {"from": "Desde 3 kg", "price": "$40.900", "unit": "/ kg"},
-    {"from": "Desde 5 kg", "price": "$38.100", "unit": "/ kg"}
+    {"from": "Desde 3 kg", "price": "$42.500", "unit": "/ kg"},
+    {"from": "Desde 5 kg", "price": "$39.500", "unit": "/ kg"}
   ]
 }
